@@ -2,9 +2,9 @@
 
 Ein interaktives, zweisprachiges Web-Tool zur DSGVO-Compliance-Selbstbewertung. Entwickelt für Datenschutzbeauftragte, Juristen und Compliance-Verantwortliche.
 
-![Tech Stack](https://img.shields.io/badge/stack-Vanilla%20JS%20%7C%20CSS3%20%7C%20HTML5-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-demo-orange)
+[![Tech Stack](https://img.shields.io/badge/stack-Vanilla%20JS%20%7C%20CSS3%20%7C%20HTML5-blue)](https://github.com/malala2409/GDPR-checklist)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Pages](https://img.shields.io/badge/demo-GitHub%20Pages-green)](https://malala2409.github.io/GDPR-checklist/)
 
 **Live-Demo:** [Hier öffnen](https://malala2409.github.io/GDPR-checklist/gdpr-checklist.html)
 
