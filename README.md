@@ -116,15 +116,42 @@ GDPR-checklist/
 
 ## 📸 Screenshots
 
-| Komponente | Beschreibung |
-|-----------|-------------|
-| Masthead | Titel, Beschreibung, Fortschrittsanzeige (X%) |
-| Progress Bar | Visuelle Fortschrittslinie unter dem Header |
-| Checkliste | 8 Sections mit Akkordeon, Checkboxen, Artikel-Referenzen |
-| Scanner | Textarea + Datei-Upload + Scan-Button mit Zeichenzähler |
-| Scan-Ergebnisse | Score, Abschnitts-Ampeln, Export-Buttons |
-| Artikel-Modal | Vollständiger Gesetzestext DE/EN auf Klick |
-| Report | Zweispaltiges HTML/PDF mit Markierungen und Beweisen |
+### 📋 Interaktive Checkliste
+
+<div align="center">
+  <img src="docs/screenshots/01-checklist-de.png" alt="GDPR Checkliste Deutsch" width="48%">
+  <img src="docs/screenshots/02-checklist-en.png" alt="GDPR Checklist English" width="48%">
+  <p><em>8 Themenbereiche mit 47+ Prüfpunkten — vollständig zweisprachig DE/EN</em></p>
+</div>
+
+### ✅ Fortschritt & Abschnitte
+
+<div align="center">
+  <img src="docs/screenshots/03-checklist-progress.png" alt="Fortschrittsanzeige" width="48%">
+  <img src="docs/screenshots/04-section-expanded.png" alt="Abschnitt ausgeklappt" width="48%">
+  <p><em>Links: Ein-Klick-Erledigung mit Fortschrittsbalken · Rechts: Akkordeon-Abschnitte mit Artikel-Referenzen</em></p>
+</div>
+
+### 📜 Gesetzestexte auf Knopfdruck
+
+<div align="center">
+  <img src="docs/screenshots/05-article-modal.png" alt="Artikel-Modal" width="60%">
+  <p><em>Klick auf eine Artikel-Referenz öffnet den vollständigen Gesetzestext (DE/EN) — 50+ Artikel hinterlegt</em></p>
+</div>
+
+### 🔍 Dokumenten-Scanner
+
+<div align="center">
+  <img src="docs/screenshots/06-scanner.png" alt="Dokumenten-Scanner" width="90%">
+  <p><em>Text-Input + Datei-Upload (PDF, DOCX, TXT) mit Keyword- und KI-gestützter Analyse</em></p>
+</div>
+
+### 📊 Scan-Ergebnisse
+
+<div align="center">
+  <img src="docs/screenshots/07-scan-results.png" alt="Scan-Ergebnisse" width="90%">
+  <p><em>Ergebnis-Übersicht mit Score, Abschnitts-Ampeln und Export-Optionen (HTML/PDF)</em></p>
+</div>
 
 ---
 
